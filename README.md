@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knva&show_icons=true&bg_color=30,FF0000,FFA500,FFFF00,00ff00,00BFFF,FF00FF&title_color=000&text_color=000&icon_color=000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knva&show_icons=true&bg_color=45,9966CC,CC6699,CC3333&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knva" />
