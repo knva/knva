@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![](https://github-readme-stats.vercel.app/api?username=knva)](https://fx.service.tcloudbase.com/api?https://github-readme-stats.vercel.app/api?username=knva)
+[![Knva's GitHub stats](https://github-readme-stats.vercel.app/api?username=knva&show_icons=true&bg_color=30,FF0000,FFA500,FFFF00,00ff00,00BFFF,FF00FF&title_color=000&text_color=000&icon_color=000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knva)]
