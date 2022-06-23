@@ -1,23 +1,23 @@
-### Hi there 👋
+### 
+<h4 align="center"><samp>  全民CV人们大家好
+我是练习时长两年半的
+个人练习生
+喜欢唱、跳、rap、篮球 </samp></h4>
 
-<!--
-**knva/knva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="250" src="https://media3.giphy.com/media/tS4dBBcz1DSZU4zZs6/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href= "https://dev.to/knva"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href= "https://afdian.net/@knva_"><img src="https://static.afdiancdn.com/favicon.ico"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+<!-- 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=knva&show_icons=true&bg_color=45,9966CC,CC6699,CC3333&title_color=fff&text_color=fff&icon_color=fff" />
-  <a>
+  <a> -->
 <!--    
 </a>
 
